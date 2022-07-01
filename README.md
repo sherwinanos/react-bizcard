@@ -1,2 +1,2 @@
-# react-business-card
-SCRIMBA Project: Digital Business Card
+# react-bizcard
+Project: Digital Business Card
